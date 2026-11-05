@@ -1,5 +1,5 @@
 <p align="center">
-<img width="700" height="333" alt="logo_sm" src="https://github.com/user-attachments/assets/73afbd62-fc3c-4bc9-aeba-0bb69d3584c7" />
+<img width="700"  alt="logo_sm" src="https://github.com/user-attachments/assets/73afbd62-fc3c-4bc9-aeba-0bb69d3584c7" />
 <br/><strong>Your AI CLI helper a keystroke away</strong>
 </p>
 
