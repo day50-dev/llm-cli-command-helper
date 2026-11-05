@@ -30,7 +30,7 @@ zummoner() {
   Don't include the shell itself (bash, zsh, etc.) in the command.
   "
   if which llcat >& /dev/null; then
-    _ll="llcat -u $LLC_SERVER -bq think"
+    _ll="llcat -nt -u $LLC_SERVER -bq think"
     [[ -n "$LLC_KEY_FILE" ]] && _ll+=" -k $(cat $LLC_KEY_FILE)"
     [[ -n "$LLC_MCP" ]]      && _ll+=" -mf $LLC_MCP"
     model="$LLC_MODEL"
